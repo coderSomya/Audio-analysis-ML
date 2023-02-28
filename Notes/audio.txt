@@ -1,0 +1,10 @@
+Audio file formats-
+.mp3 .flac .wav
+
+Audio signal parameters-
+1. number of channels
+2. sample width
+3. framerate/sample_rate
+4. number of frames
+5. values of a frame
+
