@@ -31,7 +31,7 @@ obj.close()
 
 # obj_new.close()
 
-next_sample= wave.open("sample7.wav", "wb")
+next_sample= wave.open("sample8.wav", "wb")
 
 next_sample.setnchannels(1)
 next_sample.setsampwidth(2)
